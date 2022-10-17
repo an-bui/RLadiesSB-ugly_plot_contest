@@ -20,4 +20,4 @@ ggplot(data = data,
   labs(x = "colors",
        y = "total number of colors in the sweater")
 
-ggsave(here::here("figures/yijia's plot.jpg"), width = 7, height = 4, dpi = 150)
+ggsave(here::here("yijia's plot.jpg"), width = 7, height = 4, dpi = 150)
